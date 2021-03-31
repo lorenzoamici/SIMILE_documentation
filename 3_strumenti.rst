@@ -11,12 +11,12 @@ Lo strumento Agenda permette all’utente di visualizzare su un calendario (vist
 .. _10:
 .. figure:: /img/Figura10.png
     
-    Tematica Agenda: cronologia di avvisi, eventi ed osservazioni.
+    : Tematica Agenda: cronologia di avvisi, eventi ed osservazioni.
 
 Analisi
 -------
 
-L’applicativo Web mette a disposizione un sistema di analisi avanzata dei dati relativi alle osservazioni (:numref:`11`), attraverso un pannello di controllo basato su widget personalizzabili:
+L’applicativo Web mette a disposizione un sistema di analisi avanzata dei dati relativi alle osservazioni (:numref:`11`), attraverso un pannello di controllo basato su *widget* personalizzabili:
 
     - Sezione **Filtri**: c’è la possibilità di filtrare le osservazioni in base a data, dettagli, misure, condizioni meteo, regioni e laghi; di *default* non sono applicati filtri, dunque tutte le osservazioni sono selezionate.
     - Sezione **Statistiche**: questo pannello permette la visualizzazione delle statistiche in formato numerico e grafico (tramite diagrammi a torta) dei dati relativi alle osservazioni filtrate; dunque, si riportano la numerosità delle osservazioni, i dettagli, le misure e le foto, differenziandole per tipologia; inoltre, è possibile interagire con i grafici a torta: cliccando sugli elementi della legenda, la corrispondente “fetta” del grafico viene visualizzata oppure nascosta.
@@ -27,14 +27,16 @@ L’applicativo Web mette a disposizione un sistema di analisi avanzata dei dati
 .. _11:
 .. figure:: /img/Figura11.png
     
-    Strumento di analisi statistica dei dati delle osservazioni. Dall’alto verso il basso: statistiche, andamenti temporali, tabella delle osservazioni, visualizzazione cartografica.
+    : Strumento di analisi statistica dei dati delle osservazioni. Dall’alto verso il basso: statistiche, andamenti temporali, tabella delle osservazioni, visualizzazione cartografica.
 
 Linea del tempo
 ---------------
 
-Lo strumento “linea del tempo” mette a disposizione la visualizzazione grafica delle tematiche gestite dalla piattaforma (osservazioni, eventi e avvisi) distribuite lungo un asse temporale. Cliccando sul singolo dato, è possibile interrogarlo ed estrarre le informazioni principali. I colori con cui sono rappresentati i dati sono analoghi a quelli utilizzati nella sezione cartografica e nell’agenda. Lo strumento comprende funzioni di zoom e *scroll* (in particolare, è stato impostato un limite massimo e un limite minimo di zoom per una più efficace visualizzazione dei dati); inoltre, per facilitare la visualizzazione nel caso in cui i dati siano concentrati in un breve intervallo di tempo, c’è la possibilità di impilare i dati sulla linea del tempo (funzione “impila” in alto a sinistra). La :numref:`12` mostra la linea del tempo.
+Lo strumento “linea del tempo” mette a disposizione la visualizzazione grafica delle tematiche gestite dalla piattaforma (osservazioni, eventi e avvisi) distribuite lungo un asse temporale. Cliccando sul singolo dato, è possibile interrogarlo ed estrarre le informazioni principali. I colori con cui sono rappresentati i dati sono analoghi a quelli utilizzati nella sezione cartografica e nell’agenda. Lo strumento comprende funzioni di zoom e *scroll* (in particolare, è stato impostato un limite massimo e un limite minimo di zoom per una più efficace visualizzazione dei dati); inoltre, per facilitare la visualizzazione nel caso in cui i dati siano concentrati in un breve intervallo di tempo, c’è la possibilità di impilare i dati sulla linea del tempo (funzione “impila” in alto a sinistra). 
+
+La :numref:`12` mostra la linea del tempo. Si noti che la data attuale è indicata con una linea verticale rossa, con alla base la scritta “OGGI”.
 
 .. _12:
 .. figure:: /img/Figura12.png
     
-    Linea del tempo
+    : Linea del tempo

@@ -6,5 +6,5 @@ La funzione Utenti App permette la gestione dei profili degli utenti che utilizz
 .. _13:
 .. figure:: /img/Figura13.png
     
-    Utenti App: gestione degli utenti.
+    : Utenti App: gestione degli utenti.
 

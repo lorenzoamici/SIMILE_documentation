@@ -12,14 +12,19 @@ I dati di ciascuna tematica sono rappresentati sia in formato tabellare (sulla p
 .. _fig1:
 .. figure:: /img/Figura1.png
     
-    Home Page dell’interfaccia di amministrazione.
+    : Home Page dell’interfaccia di amministrazione.
 
 .. _2:
 .. figure:: /img/Figura2.png
     
-    Visualizzazione cartografica dei dati.
+    : Visualizzazione cartografica dei dati.
 
 .. [1] Sono previsti 3 profili di utenza:
-        - viewer: ha la possibilità di consultare tutti i dati senza poter apportare alcuna modifica (modalità “sola lettura”); 
-        - editor: ha la possibilità di consultare, modificare e cancellare (solo in modalità “sicura”, spostandoli nel cestino) tutti i dati; non ha tuttavia accesso alla parte di gestione degli utenti della piattaforma Web; 
-        - amministratore: ha il completo controllo della piattaforma; può creare, modificare e cancellare anche in modo definitivo tutti i dati. Inoltre gestisce le utenze Web (creazione, modifica e cancellazione di utenti) e può modificare i dati “specifici del progetto” (per esempio può aggiungere nuovi laghi o cambiare le geometrie di quelli esistenti).
+
+    1. viewer: ha la possibilità di consultare tutti i dati senza poter apportare alcuna modifica (modalità “sola lettura”); 
+
+    2. editor: ha la possibilità di consultare, modificare e cancellare (solo in modalità “sicura”, spostandoli nel cestino) tutti i dati; non ha tuttavia accesso alla parte di gestione degli utenti della piattaforma Web;
+
+    3. amministratore: ha il completo controllo della piattaforma; può creare, modificare e cancellare anche in modo definitivo tutti i dati. 
+
+    Inoltre gestisce le utenze Web (creazione, modifica e cancellazione di utenti) e può modificare i dati “specifici del progetto” (per esempio può aggiungere nuovi laghi o cambiare le geometrie di quelli esistenti).
