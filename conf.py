@@ -17,7 +17,7 @@
 from sphinx.writers.html import HTMLTranslator
 from docutils import nodes
 from docutils.nodes import Element
-import sphinx_rtd_theme
+import sphinx-rtd-theme
 
 
 # -- Project information -----------------------------------------------------
