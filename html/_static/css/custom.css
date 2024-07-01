@@ -2,3 +2,7 @@ div[role=contentinfo] {
 	visibility: hidden;
 	position: relative;
 }
+
+h1 {
+	color: red;
+}
