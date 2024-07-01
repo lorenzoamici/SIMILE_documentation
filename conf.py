@@ -22,7 +22,7 @@ import sphinx_rtd_theme
 # -- Project information -----------------------------------------------------
 
 project = 'SIMILE'
-copyright = '2021, GEOLab'
+# copyright = '2021, GEOLab'
 author = 'GEOLab'
 
 
