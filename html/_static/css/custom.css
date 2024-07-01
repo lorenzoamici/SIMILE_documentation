@@ -1,0 +1,4 @@
+div[role=contentinfo] {
+	visibility: hidden;
+	position: relative;
+}
