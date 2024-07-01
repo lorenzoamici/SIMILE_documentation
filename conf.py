@@ -72,7 +72,7 @@ html_theme = 'sphinx_rtd_theme'
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = [r"html\_static"]
 html_css_files = [
-    r"\css\custom.css",
+    "css/custom.css",
 ]
 
 # code for making links open in a new tab
@@ -115,5 +115,6 @@ class PatchedHTMLTranslator(HTMLTranslator):
 
 
 def setup(app):
+    app.add_css_file('css/custom.css')
     app.set_translator('html', PatchedHTMLTranslator)
-    app.add_css_file('css\custom.css')
+    
